@@ -1,5 +1,7 @@
 # ft_printf
 
+![Moulinette](moulinette.png)
+
 ## Overview
 `ft_printf` is a custom implementation of the standard `printf` function in C. This project is part of the 42 School curriculum and aims to deepen understanding of variadic functions, formatted output, and low-level string and memory manipulation.
 
